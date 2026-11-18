@@ -10,8 +10,16 @@ Provides real-time visibility and AI-powered anomaly detection for:
   - Interactive Sales Order credit check simulator
 """
 
+import sys
 from datetime import date
 from pathlib import Path
+
+# Ensure project root is in sys.path
+for _p in Path(__file__).resolve().parents:
+    if (_p / "frontend").is_dir() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+        break
+
 import numpy as np
 import pandas as pd
 import plotly.express as px

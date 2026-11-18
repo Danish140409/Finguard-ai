@@ -5,7 +5,15 @@ Displays immutable audit logs of all user actions, analyst adjudications,
 scoring runs, and report exports to comply with Sarbanes-Oxley (SOX) Section 404.
 """
 
+import sys
 from pathlib import Path
+
+# Ensure project root is in sys.path
+for _p in Path(__file__).resolve().parents:
+    if (_p / "frontend").is_dir() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+        break
+
 import streamlit as st
 import pandas as pd
 from datetime import datetime

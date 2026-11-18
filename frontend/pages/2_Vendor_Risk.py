@@ -5,7 +5,15 @@ Surfaces supplier risk profiles, cumulative exposure, outlier frequency,
 and transaction history to identify fictitious or high-risk vendors.
 """
 
+import sys
 from pathlib import Path
+
+# Ensure project root is in sys.path
+for _p in Path(__file__).resolve().parents:
+    if (_p / "frontend").is_dir() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+        break
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px

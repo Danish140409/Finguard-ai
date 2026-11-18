@@ -7,16 +7,23 @@ Branded with FinGuard AI - Automated ERP Solutions theme.
 """
 
 import os
-from pathlib import Path
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
 import socket
 import subprocess
 import sys
 import time
 from datetime import datetime
+from pathlib import Path
+
+# Ensure project root is in sys.path
+for _p in Path(__file__).resolve().parents:
+    if (_p / "frontend").is_dir() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+        break
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
 
 from frontend.utils.api_client import APIClient
 
@@ -36,11 +43,14 @@ def _ensure_backend_running():
     if not is_port_open():
         try:
             root_dir = Path(__file__).resolve().parent.parent
+            env = os.environ.copy()
+            env["PYTHONPATH"] = str(root_dir)
             subprocess.Popen(
                 [sys.executable, "-m", "uvicorn", "backend.main:app", "--host", "127.0.0.1", "--port", "8000"],
                 cwd=str(root_dir),
+                env=env,
             )
-            for _ in range(20):
+            for _ in range(25):
                 time.sleep(0.5)
                 if is_port_open():
                     break

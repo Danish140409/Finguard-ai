@@ -5,7 +5,15 @@ Enables analysts and controllers to generate executive-ready PDF audit workpaper
 and export filtered anomaly datasets to CSV for external audit submissions.
 """
 
+import sys
 from pathlib import Path
+
+# Ensure project root is in sys.path
+for _p in Path(__file__).resolve().parents:
+    if (_p / "frontend").is_dir() and str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+        break
+
 import streamlit as st
 import pandas as pd
 from datetime import date, timedelta
