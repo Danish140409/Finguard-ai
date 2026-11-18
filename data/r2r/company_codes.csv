@@ -1,0 +1,4 @@
+company_code,company_name,country,base_currency,company_status
+1000,FinGuard US Corp,US,USD,Active
+2000,FinGuard UK Ltd,GB,GBP,Active
+3000,FinGuard India Pvt,IN,INR,Active

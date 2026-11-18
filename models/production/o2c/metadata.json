@@ -1,0 +1,34 @@
+{
+  "module": "O2C",
+  "version": "1.0.0",
+  "n_samples": 150,
+  "feature_names": [
+    "customer_age_days",
+    "is_new_customer",
+    "is_individual",
+    "profile_completeness_score",
+    "credit_limit_log",
+    "credit_utilisation_pct",
+    "exposure_to_limit_ratio",
+    "available_credit_log",
+    "credit_limit_change_pct",
+    "is_limit_breached",
+    "num_credit_events",
+    "num_blocked_orders",
+    "avg_days_past_due",
+    "max_days_past_due",
+    "pct_invoices_late",
+    "total_overdue_log",
+    "num_overdue_invoices",
+    "avg_payment_delay",
+    "partial_payment_freq",
+    "payment_regularity_score"
+  ],
+  "models": [
+    "isolation_forest",
+    "lof",
+    "ocsvm",
+    "xgboost"
+  ],
+  "anomaly_rate": 0.16
+}

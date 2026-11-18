@@ -1,0 +1,151 @@
+customer_id,customer_name,customer_type,customer_status,company_code,sales_org,created_at,risk_category
+dd189927-b0a0-4561-a52f-639b712ce688,"Bhalla, Arora and Shanker",Organisation,Active,1000,SO01,2021-06-23,Medium
+aff787c6-8b43-4d03-8619-b357b5e7f58a,Das-Choudhury,Organisation,Active,1000,SO01,2020-12-31,High
+5b85cfe9-1e19-478c-801e-606a725b3b1f,Shan Inc,Organisation,Active,1000,SO01,2020-08-05,Medium
+18218400-c60e-440f-a5fe-e836392a9577,"Shanker, Walla and Mahajan",Organisation,Active,1000,SO01,2021-09-03,High
+b5732e5d-45e7-46b8-b62e-413481d8c79f,Rajagopal Group,Organisation,Active,1000,SO01,2022-11-05,Medium
+14b6129a-e294-4894-9785-08ea5ad59e0e,Aurora Inc,Organisation,Active,1000,SO01,2020-11-09,Medium
+dc799b78-aa4a-4b3f-a5b7-9b036029f64a,Dada PLC,Organisation,Active,1000,SO01,2020-11-26,High
+ce1c60b6-7f43-4b38-8337-a122b43a02de,"Arya, Mand and Chaudhary",Organisation,Active,1000,SO01,2022-12-22,Low
+dbe49554-2fa2-4ee0-a99a-7dde9cca0b0c,"Sachar, Sarna and Mahajan",Organisation,Active,1000,SO01,2023-05-11,Low
+b9505da2-d2ac-415d-804c-efd9562011bd,Choudhary-Kapur,Organisation,Active,1000,SO01,2020-02-09,Low
+3c7bb73f-f3b1-4247-a08f-a33e58dbeb5f,"Dewan, Tailor and Virk",Individual,Active,1000,SO01,2022-01-13,Medium
+2d7a3296-37d7-458a-918a-25e843ed85c6,Sibal and Sons,Organisation,Active,1000,SO01,2021-09-21,Medium
+aa9d8e9b-8705-4c56-ab0c-d0ec34e1bbc2,"Kakar, Garde and Dewan",Organisation,Active,1000,SO01,2021-05-08,Low
+b39e227d-5fe9-4b70-adbe-7c90c3eb411d,Chokshi LLC,Organisation,Active,1000,SO01,2020-06-10,Critical
+5a4f1576-048a-4f70-906d-1c66f317cdfe,Batra Group,Individual,Active,1000,SO01,2022-09-22,Medium
+81be2e41-df38-4e03-b3f4-28a8ed8a9e9d,Gola LLC,Organisation,Active,1000,SO01,2022-12-26,Low
+7603fcaa-71de-48ac-8331-082740fd5d41,"Deo, Swamy and Bains",Organisation,Active,1000,SO01,2020-09-19,High
+2d2b37e8-cf24-4655-a458-a2a9568b0997,"Karpe, Loyal and Bhatia",Organisation,Active,1000,SO01,2023-01-30,Low
+ac24ed19-5862-4ba4-8ce0-cbea3581381b,Baral-Majumdar,Organisation,Active,1000,SO01,2022-12-16,Medium
+237102d4-2faf-4e14-b4af-874579fbdbd8,Thakkar-Ratti,Organisation,Active,1000,SO01,2022-05-16,Low
+17830ec6-dd7a-42e3-8cd3-1ba9e60d7d14,"Wali, Venkataraman and Golla",Organisation,Active,1000,SO01,2023-01-09,High
+cbb77c75-94d3-461d-8298-37891304223d,"Char, Sarraf and Banerjee",Organisation,Active,1000,SO01,2021-02-15,High
+d5be5d9f-89ee-4cbb-90e4-dbe51f65c670,Sahota and Sons,Organisation,Active,1000,SO01,2022-03-28,Medium
+035d68e2-3f43-4bb6-956a-01ed5f5066ed,Baral-Varma,Organisation,Active,1000,SO01,2022-02-03,High
+061b193d-e7d0-4901-8ac5-bd9f4cdda928,Verma Inc,Organisation,Active,1000,SO01,2022-11-25,High
+0938a4f8-d8ea-43a7-8e95-fd55d9cd9a97,Dewan-Karan,Organisation,Active,1000,SO01,2021-05-22,High
+4b7b0e4c-d785-4542-b9fb-47868e5879f4,"Tiwari, Gopal and Bumb",Organisation,Active,1000,SO01,2021-11-23,Low
+37064682-9e87-4002-a93c-267ac6c6476b,Goel-Cheema,Individual,Active,1000,SO01,2023-02-08,Low
+08fa2d4d-8c55-4646-8192-a580bb5de38d,"Deol, Sarna and Sanghvi",Organisation,Active,1000,SO01,2021-03-27,High
+079861c0-c9a2-4d38-95c4-32c093463d34,"Banik, Ramanathan and Ravi",Individual,Active,1000,SO01,2020-04-30,Medium
+07df346a-adf3-4b24-b07e-f511821af2ec,Loke Ltd,Organisation,Active,1000,SO01,2020-03-05,Medium
+4140bc13-e80f-4603-8a9b-901aa57b9796,Bumb Group,Organisation,Active,1000,SO01,2020-05-25,Medium
+48c5accb-d001-4836-98cc-26aee8c13432,Deshmukh-Reddy,Organisation,Active,1000,SO01,2021-07-24,Low
+7efbc9a1-f79e-4cb8-89e4-691f4d275707,"Mallick, Choudhary and Sani",Organisation,Active,1000,SO01,2021-03-14,Critical
+9d604d65-056b-4ea8-8d88-21f4c60ca927,Upadhyay-Sodhi,Organisation,Active,1000,SO01,2023-03-15,High
+1b9f3f05-2dfb-4483-b7fa-ea8425f1aaed,Contractor Inc,Organisation,Active,1000,SO01,2021-05-12,High
+12de6a37-a626-4337-9b6c-41c8971c1a8a,Iyer-Desai,Organisation,Active,1000,SO01,2022-04-13,High
+9d809091-4bcf-4772-a56d-64303117a9e7,Cherian PLC,Organisation,Active,1000,SO01,2020-07-17,Medium
+f3cf123a-c088-4b82-9eca-7a813e81096f,"Dugar, Cherian and Sagar",Organisation,Active,1000,SO01,2021-12-26,High
+5f3431f9-2300-4d00-b483-028af10a8e0b,Hora-Wagle,Organisation,Active,1000,SO01,2022-08-14,Medium
+3576251e-da2f-4ea3-8168-aa93889f55af,"Karnik, Bora and Deo",Organisation,Active,1000,SO01,2020-04-20,Medium
+82ad7cdf-45fc-46e3-abca-0b21624bf8a8,Dasgupta Ltd,Organisation,Active,1000,SO01,2020-07-20,Medium
+b1e9d846-890c-4395-942e-9e515f3a3097,"Luthra, Deep and Shenoy",Individual,Active,1000,SO01,2021-11-25,Medium
+4b0a9779-3fbf-44ad-865c-e21527ea67b0,"Kala, Yadav and Manne",Organisation,Active,1000,SO01,2020-08-11,Low
+6adc25ce-eb26-4b29-a7c7-549325085609,Golla-Choudhary,Organisation,Active,1000,SO01,2021-01-24,Medium
+3c3f2048-e2af-475b-a867-235b8f227dfc,Kumar Group,Organisation,Active,1000,SO01,2020-10-14,Medium
+e60622d4-6e16-4a50-8a61-31d1ca186f9e,Shroff Inc,Organisation,Active,1000,SO01,2021-07-24,Low
+a725fef0-eea5-4948-ba3c-eed94c7749d4,Bose Ltd,Organisation,Active,1000,SO01,2020-06-03,Critical
+3f634fb4-fcd4-46d4-a25e-42eafe4e7b71,Sule Ltd,Organisation,Active,1000,SO01,2023-02-01,Medium
+5a6de52c-2d36-4ae2-8e0e-3985accd2e09,Raju-Balay,Individual,Active,1000,SO01,2023-01-12,Medium
+ff99841d-735e-4420-8843-e551f2ad1f55,Halder-Raju,Organisation,Active,1000,SO01,2020-07-10,High
+738afff2-0559-4556-b967-abd749df2fa2,Lalla-Dass,Organisation,Active,1000,SO01,2021-04-29,Medium
+32058b34-12a1-428b-8cd9-7e0b39f6fc5d,"Vasa, Ahluwalia and Sangha",Organisation,Active,1000,SO01,2022-09-21,Medium
+cbe51544-50d3-4cc3-9874-81d9951b2482,"Bhandari, Sanghvi and Wali",Organisation,Active,1000,SO01,2022-04-01,Low
+9243f3a5-6e65-4e0b-b92e-e73958a966ea,"Sheth, Deol and Sodhi",Organisation,Active,1000,SO01,2020-12-03,High
+5b439b52-78a4-469e-b840-9618026e1fd8,"Garde, Bhalla and Din",Organisation,Active,1000,SO01,2022-03-10,Low
+f2c4b133-037c-4fc1-97cb-0e34b5042281,Brar-Karan,Organisation,Active,1000,SO01,2022-07-20,Low
+f3a90740-b906-4bd9-92e6-ffce1667d585,Sen Ltd,Organisation,Active,1000,SO01,2023-02-12,Low
+79359f12-3a37-4422-933c-091f121195da,Krishna-Singh,Organisation,Active,1000,SO01,2022-09-23,Medium
+a9761416-e99e-4f8d-9428-a02562fa67e2,Kulkarni Inc,Organisation,Active,1000,SO01,2021-08-30,Low
+2e50696e-5623-4539-84a7-6f1d8c91dc8a,"Dixit, Trivedi and Reddy",Organisation,Active,1000,SO01,2020-04-29,Low
+6b37c009-2eed-4da7-ab61-82f6fcba4581,"Ramanathan, Chaudhary and Bose",Organisation,Active,1000,SO01,2023-01-15,Low
+077e2ee1-34d1-4355-a397-f389da41b917,Singh-Buch,Individual,Active,1000,SO01,2021-10-04,Low
+12cc11b5-b8f5-4a06-a095-e338fe09babf,"Sood, Lanka and Acharya",Individual,Active,1000,SO01,2023-04-11,High
+ccf47516-d3ff-4617-82d3-ec10a451028c,"Edwin, Konda and Andra",Organisation,Active,1000,SO01,2022-12-23,Low
+75113d71-0edb-45bc-b8a0-d190eeaa0217,Golla LLC,Organisation,Active,1000,SO01,2022-11-06,Critical
+5593e213-fb12-4218-b94e-2774aa2aea49,Balakrishnan and Sons,Individual,Active,1000,SO01,2021-01-15,Medium
+5fa7ec27-e905-4ffd-a7e4-509e5a2fcf1b,"Baral, Basak and Setty",Individual,Active,1000,SO01,2020-05-19,Medium
+6e1c1614-3232-4a7b-b45d-ec59313615a3,Tandon-Banerjee,Organisation,Active,1000,SO01,2021-04-26,High
+af4e2946-1980-41c1-8778-bf89d3a05a3e,"Sinha, Bhatnagar and Bhatt",Organisation,Active,1000,SO01,2023-03-12,Medium
+121bd0ce-6b13-4f30-904a-62de0e047d83,"Khanna, Maharaj and Butala",Organisation,Active,1000,SO01,2023-05-02,Low
+af24102d-e703-4e6a-83ab-83b3ce1a8117,Lalla-Viswanathan,Individual,Active,1000,SO01,2020-06-16,Medium
+38cee791-f424-4c9a-8bd1-87b5a401902e,"Kakar, Cherian and Madan",Organisation,Active,1000,SO01,2023-04-10,Low
+70399964-9c4c-43f0-aec1-85a6b0704f03,"Sant, Chaudhry and Saxena",Organisation,Active,1000,SO01,2021-10-09,Low
+1b97dc63-925a-4a48-a64f-a97ffca72cc3,Iyengar-Sampath,Organisation,Active,1000,SO01,2021-02-22,Low
+f9b133c9-5d88-46c0-a5f8-fce04d372042,"Grover, Kanda and Yogi",Organisation,Active,1000,SO01,2021-10-05,Critical
+4ee67a50-c4ce-43ce-9a05-f3d8fa1b5fd8,"Kara, Bhasin and Dasgupta",Organisation,Active,1000,SO01,2022-03-21,High
+3d6c7ad8-b361-4f1f-a613-6e0f05d66a1d,Balay LLC,Individual,Active,1000,SO01,2021-09-06,Low
+971944eb-b1b9-4219-b661-ff97128158dc,Raja PLC,Organisation,Active,1000,SO01,2020-05-28,High
+2b4884f6-72f2-474a-abc5-5950c629d657,Raja and Sons,Individual,Active,1000,SO01,2023-02-27,Medium
+993c20ce-423e-4352-8c2c-15b1f6ee9980,Banik Ltd,Organisation,Active,1000,SO01,2020-05-30,Medium
+6aaeeeff-58e7-4617-869e-6d54b677d9dc,"Balan, Contractor and Bandi",Organisation,Active,1000,SO01,2022-11-02,High
+b93760a3-f272-4a37-a731-6c20d465351a,Vasa LLC,Organisation,Active,1000,SO01,2021-12-15,Medium
+770ff89f-2ad2-4710-97e5-32e1d0577793,Kurian and Sons,Organisation,Active,1000,SO01,2021-05-15,High
+bc5c8303-02e7-453f-87bb-ead2d7fea47d,Sami-Kibe,Organisation,Active,1000,SO01,2020-11-19,Medium
+2f83bb0a-0f57-41b6-b894-c144caabde2b,Madan and Sons,Organisation,Active,1000,SO01,2023-01-17,Medium
+f097ff20-be93-4246-89d2-b5aa3676af91,"Wadhwa, Mangal and Mani",Organisation,Active,1000,SO01,2022-12-19,High
+7e3a0320-e57c-455b-b744-ab79ed3bb698,Dara-Srinivasan,Individual,Active,1000,SO01,2023-02-09,Low
+33625772-fe47-4d25-8dd7-7c5de1c34cac,Swamy-Jani,Organisation,Active,1000,SO01,2020-07-31,Medium
+5dd6ba4c-e051-40c7-826c-3ddcfbe3f198,Batta Inc,Organisation,Active,1000,SO01,2020-10-02,Medium
+9435bc74-3006-491d-967d-452e51f62d39,"Kale, Goel and Kakar",Organisation,Active,1000,SO01,2020-08-07,Critical
+24eab962-429e-43f7-a0b2-321c3f8a1e61,Kaur-Venkatesh,Organisation,Active,1000,SO01,2020-11-14,Medium
+88fc2b90-3fd8-4a36-91e4-c6a7374c10cb,"Bala, Samra and Sachdeva",Organisation,Active,1000,SO01,2023-05-23,Low
+cf61e5d4-fd0d-4aa7-a6de-354b09cfe27e,"Bawa, Balasubramanian and Jaggi",Organisation,Active,1000,SO01,2021-12-03,Medium
+d7b7ef03-a8d8-4fe6-9054-aaf70d828f0f,"Gara, Sura and Venkataraman",Organisation,Active,1000,SO01,2021-06-24,Low
+f31b279d-bcf8-4348-ac36-0db0bc3e6245,Dash and Sons,Organisation,Active,1000,SO01,2021-05-29,Medium
+c88e7b64-51fe-44ed-93d1-40168ec2d0ea,Loyal Group,Organisation,Active,1000,SO01,2020-04-14,Medium
+d7d1c2a8-b4e1-4f3e-8696-b6fdbc159015,Kakar and Sons,Individual,Active,1000,SO01,2022-05-17,Low
+954acad6-ae4d-46d2-aa40-3fe3d9050702,Kashyap-Dash,Organisation,Active,1000,SO01,2020-03-31,Critical
+b9dfa2cb-4ee3-4280-a1d7-4c2769f78d52,Kant PLC,Individual,Active,1000,SO01,2020-09-24,Low
+9fdfa522-d299-48af-b418-89692e9117ad,Bakshi Ltd,Organisation,Active,1000,SO01,2021-06-20,High
+632cc58f-6524-4f64-92f2-d37fc9d64d8b,"Toor, Amble and Batra",Organisation,Active,1000,SO01,2022-06-23,Low
+125aa424-3be9-42a2-ad83-fa27ec755c84,Chacko Group,Organisation,Active,1000,SO01,2022-05-25,Medium
+8db4bab1-9e41-487a-ab5a-55120484211b,Khosla-Chhabra,Organisation,Active,1000,SO01,2020-08-17,Low
+3587bd8b-3aa3-4d3a-9bea-a68f4d45e130,Zacharia-Balan,Individual,Active,1000,SO01,2020-11-01,Medium
+8bf42500-0599-4e32-b636-864228e0dbfc,Gupta Inc,Organisation,Active,1000,SO01,2022-01-26,Low
+0c21a5ab-b126-4278-b2f3-f1e75f8c36f5,Deo-Srinivasan,Organisation,Active,1000,SO01,2020-10-30,High
+c63ccd9e-dd41-4c41-b411-b43f8ae5928c,Dhar-Kakar,Organisation,Active,1000,SO01,2020-03-26,Low
+4a9a7c00-55a9-44bb-88a1-6c999cc876d8,"Setty, Srinivasan and Mall",Organisation,Active,1000,SO01,2020-03-22,Medium
+394b9008-9d8d-4c4a-8e0e-90be9a34f387,"Sekhon, Kohli and Brahmbhatt",Organisation,Active,1000,SO01,2021-03-06,Low
+149c7a7e-c78a-4383-8e96-2aac8fa1cff6,Divan and Sons,Organisation,Active,1000,SO01,2020-07-29,Critical
+aedafaef-3cc1-4906-b991-855d9bb3d4b0,Mann Ltd,Organisation,Active,1000,SO01,2023-02-20,Low
+647d6863-05ab-4a1d-aa4c-167eb3e3b082,"Balasubramanian, Shenoy and Dugar",Organisation,Active,1000,SO01,2022-04-12,Low
+635d1850-9667-45c1-8276-bc853fbeca51,Bakshi PLC,Organisation,Active,1000,SO01,2020-11-12,Low
+4d2e5ce8-e340-4fc3-a86a-d4b512387fdf,Krishnamurthy-Varkey,Organisation,Active,1000,SO01,2021-04-29,Low
+8989a10a-b956-4bc6-aba1-6fb62572ae3f,"Brar, Balakrishnan and Kumar",Organisation,Active,1000,SO01,2020-12-28,Low
+9205f647-81b0-4b5a-8546-ccaa551f2e9c,Varghese and Sons,Organisation,Active,1000,SO01,2020-02-20,High
+c8aa7bf3-c38f-4794-82e7-049c33c40b3e,Rajan Inc,Organisation,Active,1000,SO01,2021-11-11,High
+847e3c77-faaa-4436-bd7d-c0a2b9901789,"Venkataraman, Dalal and Jaggi",Organisation,Active,1000,SO01,2022-04-23,Low
+93f20adc-fc32-4805-acbc-9812e8a70e28,Walia PLC,Organisation,Active,1000,SO01,2021-05-23,Low
+28a1f7db-832e-4235-b3e4-b12bf9771fb4,Mann PLC,Organisation,Active,1000,SO01,2020-08-09,Critical
+f0f1d28e-0fc2-498d-ac1c-cfaf30a79b3e,Rao Inc,Organisation,Active,1000,SO01,2020-03-20,Low
+d754e0fa-fc9c-4294-b7bf-da5b570c1741,Saha-Manne,Organisation,Active,1000,SO01,2021-03-31,Low
+8de984ff-cfba-439a-8c8e-1e1de45e7263,"Lal, Dugar and De",Organisation,Active,1000,SO01,2022-07-31,Medium
+a9f7803c-2b9b-4640-adc2-5425a4aaf3e2,Sami Ltd,Organisation,Active,1000,SO01,2021-04-11,Low
+c15c8d70-0692-451f-b5b0-141afd6c6745,Dar-Deo,Organisation,Active,1000,SO01,2021-01-30,Medium
+bca89ea1-0aa9-4c4f-bb59-98637963fc1e,Bhatti-Sampath,Organisation,Active,1000,SO01,2021-07-24,Medium
+10c287fb-0533-4a30-a77d-c9fae7649252,"Doctor, Karnik and Dugar",Organisation,Active,1000,SO01,2021-07-25,Low
+d82428f0-aa1e-48a5-9f88-5a30eceed9c3,Agrawal Group,Organisation,Active,1000,SO01,2022-11-09,Medium
+1d12c653-aa85-41dd-9698-2ec03d0e447b,"Manda, Bedi and Bansal",Organisation,Active,1000,SO01,2023-01-03,High
+f1d0cb90-ea2a-4c24-ad1b-3d7b16f2fffe,"Chhabra, Kulkarni and Deo",Organisation,Active,1000,SO01,2020-02-26,Low
+6964457b-7de5-47cf-a14c-6682177390fd,Ghosh Inc,Individual,Active,1000,SO01,2021-06-18,Medium
+dc713160-498c-41c6-bb35-cf5befb8b27a,Goyal LLC,Organisation,Active,1000,SO01,2021-06-27,Low
+cbb94546-350d-478b-98d2-087bceebf665,Kanda PLC,Individual,Active,1000,SO01,2023-05-06,Critical
+19398caa-041f-4ebb-9398-bd0670469f3d,"Dora, Ramesh and Swamy",Organisation,Active,1000,SO01,2021-10-04,High
+f28b5686-779c-46fc-b4eb-352fb84ba95c,"Lalla, Agrawal and Sama",Organisation,Active,1000,SO01,2022-11-13,Low
+402f9a70-4d41-48c4-a4d3-f0da55b1e52b,"Doctor, Saini and Ben",Individual,Active,1000,SO01,2023-03-26,Low
+67617450-3ecf-45fb-bb30-89fcb3e5b68f,Deo Inc,Organisation,Active,1000,SO01,2020-03-31,Low
+fb350daa-a0bb-41cd-b3ea-ea802107abf3,Sharaf PLC,Organisation,Active,1000,SO01,2020-01-04,Low
+808d7bf7-d117-493e-adcf-a3b359237562,Deshpande LLC,Organisation,Active,1000,SO01,2023-01-07,Low
+e7713f67-4578-47a7-bc68-fc50a90b67e0,"Cheema, Sekhon and Garg",Organisation,Active,1000,SO01,2021-02-07,Medium
+7222b5b2-45df-425c-9846-6b0972b1dc29,Sankar Ltd,Organisation,Active,1000,SO01,2020-05-23,Low
+5d2f2ad7-7889-4cf1-b6aa-2633190826b2,Krishnan-Konda,Organisation,Active,1000,SO01,2021-11-07,High
+59a60caa-2ab0-4edf-9d56-408717be22f7,Zachariah-Vaidya,Organisation,Active,1000,SO01,2020-09-12,Low
+ac39ff18-2c26-4716-9f23-21ca9683db44,Batra Ltd,Organisation,Active,1000,SO01,2021-09-07,Low
+fc9622a5-c982-4f40-b301-4601a7d58b1b,Thakkar-Devi,Organisation,Active,1000,SO01,2022-04-16,Low
+b7c49336-0ccb-48f8-9a0e-e245ac2efd71,Agarwal LLC,Organisation,Active,1000,SO01,2021-08-28,Medium
+9de8beda-dbe9-4695-97ee-1457df50b657,Ray LLC,Organisation,Active,1000,SO01,2021-01-27,Medium
+e02dc8ee-68d2-4c33-8472-0e12facb6318,Shanker Group,Organisation,Active,1000,SO01,2022-02-15,Low
+50ed2511-e33e-4f71-969a-4aed96b15e71,"Sastry, Kala and Mand",Organisation,Active,1000,SO01,2020-12-22,Low

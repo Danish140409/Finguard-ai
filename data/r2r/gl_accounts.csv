@@ -1,0 +1,7 @@
+gl_account_id,gl_account_number,gl_account_name,account_type,company_code,account_group
+f0aa3097-bfdd-4eee-806f-4d87a40aa978,101000,Cash & Bank,Asset,1000,Cash
+676f541c-a69f-4363-89d7-c496b522f992,120000,Accounts Receivable,Asset,1000,Receivables
+0c8b2497-79d9-4634-a8cb-b1e335d0c0f5,200000,Accounts Payable,Liability,1000,Payables
+5b8c3d6c-a972-42cc-a597-0e7e68ab9d6a,400000,Operating Revenue,Revenue,1000,Revenue
+ee9b5a0b-5754-483f-b3c2-02c0f6145998,500000,Cost of Goods Sold,Expense,1000,COGS
+89ffef5e-4980-4885-a64b-b0dcf6a03c4b,600000,Operating Expenses,Expense,1000,OpEx

@@ -1,0 +1,201 @@
+vendor_id,vendor_name,registration_date,country,risk_tier,tax_id,bank_account_hash,contact_email,is_active
+72be586a-d2ee-4c97-a690-720e53202556,"Rodriguez, Figueroa and Sanchez",2024-08-23,US,fictitious,143-95-1680,46422db8e44b3e33,shaneramirez@blake.biz,True
+f289336f-0dbc-4cb7-b88d-b5a871fb28d7,Ramirez-Lewis,2023-10-13,CN,fictitious,782-44-1675,1f3885fe99721584,janetwilliams@mejia.com,True
+d5be90dc-6013-49a4-bf2e-3c7990e65909,James Group,2024-02-18,US,fictitious,651-47-2665,8b1c6c32ffeceae9,lydiatrujillo@adams-clark.org,True
+a38449a6-6c42-4c3e-ae19-8869e74a9c24,"Edwards, Rios and Foster",2024-01-23,US,fictitious,659-59-2341,1b65674f616b55be,hernandezernest@henderson.info,True
+9cf7b605-f2d9-4389-8791-16e111bc6ee8,"King, Tran and Dunlap",2024-10-12,US,fictitious,697-93-1877,4c724c01962c26d5,ericfarmer@ashley.org,True
+f121bada-7b54-4e45-8b3e-2b84f6f0eb00,Burns-Rodriguez,2024-09-11,CN,fictitious,372-40-3924,c4dbf922a57849b9,jenniferross@santos.com,True
+d85370f8-f19c-4da7-9273-c38809c9ece8,Walker LLC,2024-12-30,CA,fictitious,022-76-9076,4dce0bc241e5daca,esanchez@lee-davis.biz,True
+141512b0-f8cd-437f-8f0c-6562cc07a555,Henderson-Owens,2023-11-14,GB,fictitious,747-07-1613,95d52ef9b6d4cca5,williamsyvette@novak.com,True
+7ffea96a-7a2c-4643-b632-a3f2c24ce2c4,Tucker-Lewis,2024-05-04,US,fictitious,411-08-2698,03c335ed203e0a97,williamsthomas@moore.com,True
+e19615c2-4626-4d76-bf13-af762e44d583,Larson Ltd,2023-10-16,US,fictitious,883-31-6616,c8cde9396e03f4d0,panderson@bryant-hickman.com,True
+0faf5de8-df7d-430c-a7a3-abc8afed4b0a,Ellis PLC,2024-01-20,US,fictitious,103-10-8809,60c993cadb61ca76,mcmillandennis@preston.net,True
+f4d4f631-9c34-4611-8a9f-77408cd26515,Nelson PLC,2024-06-15,GB,fictitious,216-92-5618,66ea56186d6f1e81,hhoffman@landry.com,True
+6818fff2-6cbc-419d-b1fb-94f78ca99435,"Johnson, Wood and Tran",2023-10-14,CA,fictitious,441-17-0686,ce6d05c47a197708,jillcook@pham-shields.com,True
+07d458e7-369b-4ce6-9e56-96e2c58bc384,Moore-Haynes,2024-01-10,CN,fictitious,392-05-7712,80a4dcdc6a3c9527,sheila14@carpenter.com,True
+bb36bb8c-18c9-4f61-9b95-cc9ecb0e1907,Carlson LLC,2024-08-28,CN,fictitious,747-41-7150,c53b6454e84a7e1e,elizabeth14@parker.com,True
+f94a97f2-2a89-49a5-9cbb-c5d4456d51d2,"Martinez, Fisher and Bentley",2024-07-06,US,fictitious,694-96-2852,4b33a63e89d2fade,yleon@jackson.org,True
+0cf089b1-2d16-437c-b800-e0efb410acf8,Davis-Crane,2024-01-21,US,fictitious,241-87-5086,f523ede7fd7713b7,dianasmith@osborne.com,True
+f959a067-40d7-4106-89a1-37809a7aab98,"Holmes, Williams and Wright",2024-07-28,US,fictitious,869-16-7479,c5012157f1e75765,maryramirez@washington.com,True
+d72d955c-5f2d-4435-92bc-1ad69cbae393,Nelson LLC,2024-11-18,US,fictitious,554-11-2268,1c04122d8f01880b,gateskathy@woods-bender.com,True
+7d6b6f83-68dd-419a-a915-0df995ba7388,Castaneda-Ashley,2024-10-23,IN,fictitious,430-69-8948,a90635b9edc3deb2,qvargas@miller.com,True
+04edb376-f9f6-4d06-bf6b-06ec64274ce2,White-Green,2023-06-13,CN,high_risk,336-28-7450,ffbb2ae0de6fc325,maryhowell@martinez.com,True
+122441db-a04b-42c7-a110-2d58bdf9eef9,"Gould, Marshall and Scott",2024-03-08,US,high_risk,378-22-9927,c8c30290d48f533d,melissa91@patton.com,True
+7978bbd0-37bf-4dc5-bfb2-d686090a2885,Hunter LLC,2023-10-12,US,high_risk,013-54-8032,fb923d8b82064dd6,mariahmiller@sanchez-marshall.org,True
+e19b7614-d47b-4798-8414-bb0ae9e14795,"Gray, Johnson and Rosales",2023-08-09,IN,high_risk,187-63-3476,95f9b1405ca80cee,bwest@phillips.com,True
+352f4bf5-fe2c-41e0-aa76-4cc7acb8ea1b,Beck-Wood,2023-12-11,US,high_risk,567-68-5633,ba3c0226c53e4885,lhill@carlson.com,True
+bd0e336a-2e1f-4a65-8ed8-425c1fa1a2aa,Ward LLC,2023-04-05,US,high_risk,015-91-8752,3405bacebc5ed01e,shelley71@morales.org,True
+b6a01f10-d8d8-447e-8bf3-6032f682829e,"Parks, Hernandez and Shepherd",2023-04-10,US,high_risk,312-11-4067,8e699c1dd18e2e3d,lynchjody@garrett.com,True
+47b55ecb-ba8f-459b-86f5-a5c86e1bb0fe,Allen PLC,2023-12-19,GB,high_risk,077-21-0044,c82f661cdf040b02,deborahkerr@jones.com,True
+e077e213-d15a-43a4-bba2-dab3d99c5a39,"Curry, Carroll and Roberts",2023-09-28,IN,high_risk,128-60-4983,0b7cf90a0c9d1ce0,keyemily@johnston-hines.com,True
+b6223de0-8382-4eeb-8090-faf814dc953e,Stone-Ramos,2023-02-14,CN,high_risk,285-24-9591,bc09a70767dd2294,qmiller@wilson-barton.net,True
+fcd0443b-c96b-4523-929b-660a5498c231,Sandoval PLC,2024-04-15,CA,high_risk,474-53-0889,7e809d17de42d4f6,lancesmith@davis-gay.com,True
+4731b449-664a-4d73-83b6-9b6c500bab11,Valentine-Holland,2023-05-08,US,high_risk,158-64-4782,f858c8a5f716f637,sarah84@campbell.org,True
+eb27074e-0a4e-404b-831a-7bdd6d247f1b,"Duarte, Burns and Hernandez",2023-03-22,CA,high_risk,552-62-5655,2a1927bd75e7fe03,tylerjohnson@sanford.info,True
+3384d246-6d9a-4564-aac5-3a83a841a690,Fox Group,2023-10-28,MX,high_risk,016-93-2362,5d5e8497bffff6f1,younggabrielle@bright-francis.biz,True
+e6f42389-1539-4d3c-81f9-bb7e5e27a4c1,Hodges Ltd,2024-09-25,US,high_risk,894-13-7270,601b9888d3bb84dd,christianpitts@vega.com,True
+86abffe4-3a05-4b58-a2d9-33e29713678c,Little-Stevens,2024-08-14,US,high_risk,683-02-7623,fc36a7d5344c1278,karmstrong@haney-phillips.biz,True
+6150a8d0-1100-4c80-b445-03d273227c70,Smith-Grimes,2024-12-22,US,high_risk,797-96-0804,5a43bff4757dd964,jessica14@burgess-thompson.com,True
+229b50d1-3d1a-4118-8516-9a0c6bbdbd68,"Walter, Diaz and Shaw",2023-02-16,MX,high_risk,280-22-4211,5791bdcfe919b700,gibsonemily@baker.com,True
+9162d116-79c6-4c3d-8b7d-f9704f4bf5b3,Leonard Group,2023-08-22,IN,high_risk,026-80-9199,9c9c9950ce4db15f,paulwatson@horton.com,True
+b0c46cb9-31b3-4b82-9bec-c2e3fa87d721,Pena-Bass,2023-10-24,US,high_risk,631-53-4584,d6fcbb37c8942c2f,batesdarlene@maddox.com,True
+c374ffb6-1bf8-40e8-b129-8a40b3114658,"Harris, Gallegos and Spencer",2023-08-27,US,high_risk,601-28-3818,bd36d32d3af8b2e5,alfred40@harmon.com,True
+6ad1e99c-32d7-4ddc-9ea4-8d044f0d8934,"Brown, West and Cox",2024-01-25,US,high_risk,608-14-7406,20eacfffd6e3b18c,cameronhill@richards.org,True
+c50732d9-21b1-4729-9297-a4e2af7c61c1,"Phillips, Wagner and Jordan",2024-04-09,MX,high_risk,813-90-1875,6d03b39605be8ccf,stephanie71@decker.biz,True
+f325360e-3329-44bd-b010-3e233cecb26c,Garner LLC,2024-01-09,US,high_risk,832-17-9116,75a32d3caebf9552,dianewalker@bell.com,True
+9ff77989-1b33-455a-9949-58cf3ee6b0a4,Farmer PLC,2024-01-15,US,high_risk,232-55-9191,4c8061ac93d312bd,vjones@bonilla.biz,True
+6ac3038c-60e2-4735-8210-1cc8da998184,Chavez-Moore,2023-08-03,MX,high_risk,320-93-5315,cd25d3c7a8163713,kariwilson@rodriguez-gregory.org,True
+201520b8-b668-487c-bb1f-5eb5eb0f6d04,Rose-Parker,2023-10-01,CN,high_risk,226-51-9820,d81a6399ef0d0441,charles06@stevens.com,True
+11a1301c-9ebd-4ccb-bfbc-1209c416bbcd,"Patterson, Sullivan and Bowman",2024-11-30,MX,high_risk,297-15-6637,a983dc1143b5e096,jeffrey21@schultz.com,True
+3e37705d-bfb8-4cae-95c4-bf249df5825a,Luna-Fuentes,2023-03-15,GB,high_risk,835-19-3872,ca4947c24cb9faac,scottharrison@turner.net,True
+fcea920b-c4cc-46ea-80c8-05b9fd116a23,Collins Group,2024-10-12,US,high_risk,039-08-6042,e893a9f8bc7fbd19,susanhayes@haas-miller.com,True
+a0ea4ddc-f224-4154-b480-b9878212e613,Wright Group,2024-06-30,CN,high_risk,450-68-8565,98b9b0de9b5e6995,mathewaguilar@rangel.biz,True
+9a80f1cc-ddb7-4daf-8016-6925baaa03e2,Larson Inc,2023-09-08,US,high_risk,318-72-6172,f3077bc79a330115,ericphillips@romero.net,True
+8d764d51-1fd9-418d-ae9e-35ca77cc3cc4,Stanley PLC,2024-04-18,US,high_risk,135-77-6173,39dafff908118f40,tammy73@gregory-hudson.info,True
+fe93e29c-8dad-4ffc-a637-71f3bb4a45c7,Hammond-Strickland,2023-10-04,MX,high_risk,515-68-6860,0a3b3dfa4a4757a8,mariahdavis@velasquez.com,True
+d97e9d5c-f8be-43d9-b2d1-2d73cc9f65d2,Brown-Shaw,2024-12-05,CA,high_risk,242-50-1338,84478833f274d6b7,jason28@lynch.com,True
+a2548d50-ccb7-4cca-8bc9-b7f1fdd5a77b,Martinez-Allen,2023-08-13,MX,high_risk,655-80-7490,433c116f419cae01,elizabethmiller@jones-fox.net,True
+0dd0bed7-a72b-496d-856e-941fbaf06b92,"Spencer, Myers and Harrison",2023-11-29,IN,high_risk,651-50-6117,19f7814e76962142,lisabrown@johnson-harris.com,True
+1aebfa21-df8d-4c1c-8c9e-714e0e524b4a,Stewart LLC,2023-02-27,US,high_risk,528-51-8898,5fe215ec15fefd03,xholt@adams.biz,True
+77a4a146-1052-4f37-ae14-c84884064207,"Carney, White and Carter",2023-02-02,IN,high_risk,106-11-5373,209b85e611228731,william20@allison.info,True
+e0640f3e-5a7b-4160-a81d-6d9967f979b4,Martinez and Sons,2023-11-20,US,high_risk,798-83-6002,0560e700d472c147,susanjohnson@porter.net,True
+03bacd5e-6304-4f93-8d97-ba4f492d5a8a,Green LLC,2019-07-03,US,standard,721-58-3516,526d58e693c5f5f4,melissa25@walker.com,True
+55875e40-4c63-49a5-acd0-a8efd7e7a77c,Johnson-Spencer,2019-03-09,GB,standard,378-60-9039,12ee1fbee5d114a2,david89@saunders.biz,True
+4e29924c-c9d6-4430-b662-42a3882f870f,"Bartlett, Brown and Martinez",2022-11-30,CN,standard,157-39-2698,69ce67b075e78f19,brittanycarpenter@hopkins.org,True
+1a9e015a-19c2-4bd7-b762-5cd7a9780998,Kirby-Elliott,2019-10-07,US,standard,846-04-1331,900d5443ee0c2acd,djones@gonzales.info,True
+4ccf6d00-f0a1-4e65-97fe-1829d7b95e16,Peterson and Sons,2021-09-04,US,standard,321-92-5232,0e53e7d38b8f22b7,sonia96@estes.com,True
+d771f714-5095-442e-af9e-91e8dc894815,"Griffith, Lee and Moore",2020-03-21,MX,standard,528-60-8172,34d69a6a41bcc321,booneryan@luna-gallagher.com,True
+43f39684-4bf8-49e9-80e1-d0198885e71c,Morales PLC,2020-07-28,US,standard,576-25-5940,3a0e6629104dcb09,jameshicks@williams.info,True
+cd0dd11c-704b-44ad-91a3-81443ca546fe,"Bryant, Obrien and Robertson",2019-06-27,US,standard,336-79-5219,4f2cc63ebc85a481,ysilva@wiggins.com,True
+d875e077-ee78-42f7-8652-351d14360728,"Patton, Parsons and Lane",2019-05-21,CN,standard,739-07-9561,af2a0d8d4faed484,roberthampton@salas-fitzgerald.com,True
+5a51772d-23d5-4527-b99a-00505eed4cf9,"Taylor, Clark and Nguyen",2021-02-23,CA,standard,679-62-8610,1fcada81dc475630,janet75@bailey-peck.com,True
+a1442766-a477-4e2a-9be9-a327b2e123a9,Martinez-Rhodes,2019-06-23,CN,standard,389-51-5655,e7364bc059a30b37,gilbertbrenda@williams.com,True
+ef094df6-d8ed-4925-aca6-70e8cb6d344c,"Hall, Garcia and Rivera",2021-04-12,US,standard,484-13-2253,237c40cabb6280bf,sarahjohnson@french-lopez.com,True
+06781a6f-fff4-4470-8029-47b9baba6249,Smith PLC,2021-04-10,US,standard,618-14-5490,0408967635c4b7d0,krystal93@carr.biz,True
+2975b9de-6dcf-4add-a19a-29dedd4a2d6d,Robertson-Miller,2020-01-12,US,standard,686-13-3028,5fde160e325497ad,contrerassteven@sullivan.com,True
+182cff33-5226-4aa9-8645-ee353fda6ba7,"Wilson, Hendricks and Phillips",2018-10-11,CA,standard,630-29-3591,5d98e7b58316e346,starkdaniel@leach.com,True
+b0675930-31ae-49d4-8c39-78b09b1b8694,Bond-Ramos,2020-10-07,US,standard,697-27-9555,19e8b8ff3c394b60,reesebeth@henderson.com,True
+c7dfd503-1572-425a-ac17-ded88206ae91,"Mcknight, Michael and Jones",2022-03-28,US,standard,484-05-4704,44a2304364d8b2a9,jessicawalker@avila.info,True
+89a8a494-eca6-42e1-b8af-be1a6a40e954,"Ball, Coleman and Gray",2022-10-30,US,standard,236-32-7547,6caae6d1efd6ef02,joymorales@fernandez.com,True
+6d1f9b3d-42c7-4c8f-8b33-d4dd41a3d6c7,"Holder, Young and Hendricks",2018-11-10,MX,standard,590-41-9462,b346950833dbdf47,wwilliams@powers.biz,True
+48fae280-fa54-48b1-9f60-9eaff6b27ad4,Hernandez-Bennett,2018-11-24,IN,standard,773-69-7759,4e2f15a9a4fdab98,nielsenmelanie@nichols.com,True
+4d0f8791-14ab-45da-b13b-61ce8485331c,Bennett-Jacobs,2021-10-25,US,standard,041-10-3083,f10090dec71462d7,jherman@rowe-james.net,True
+7fa40d6c-d6d0-4e70-92bd-0c07ce379899,"Howard, Green and Hunt",2021-05-06,US,standard,510-60-1616,4f4a4c3cc789e473,mphillips@hall-hudson.com,True
+78c9455c-d22e-4fd9-b9e1-48a1f08bd2b3,Pierce-Harding,2020-02-28,US,standard,346-33-8006,d7c1872ab5e192d8,gutierrezmegan@jones.com,True
+ee602eac-c13a-4739-8607-3cc477e2950e,Wagner LLC,2021-05-05,US,standard,062-80-7917,8fc844acca2e0d2b,warrenjohn@fox.biz,True
+60641041-2b72-4e7a-89a1-fdffd0143dd7,Watson Group,2020-12-19,US,standard,471-73-3985,2015d5c743781bc8,ariel18@hall.org,True
+e55f5549-cb95-4dd5-8338-590b0425ec44,Nelson-Glass,2021-02-07,US,standard,701-36-8898,30ab6ab7be2c66c4,patrick21@mcgee.com,True
+3d7aa5b7-f3f9-4095-8795-b524597ff5fe,Peterson PLC,2021-10-25,CN,standard,610-51-5348,e1f353260fec0b70,millereric@bowers.com,True
+a19145ff-efae-41cd-bf1f-9be1dd3553ad,Davis LLC,2018-08-23,MX,standard,456-47-4420,f8a1fdcee2952181,michelle04@hughes-miller.net,True
+6b652407-351a-4221-963c-cc90d7b37fef,Armstrong and Sons,2022-12-18,CA,standard,702-49-2778,be7f5d0d267a0652,stephentaylor@rush.org,True
+146fabcf-67a1-4dee-952c-f07091069ea6,Brock-Rivera,2022-03-18,US,standard,343-56-9739,03c7742de6ce4aff,daniel93@osborn.com,True
+50f5a8f3-7d4d-42ba-add6-72c4be55d355,"Murray, Erickson and Gonzales",2022-04-24,MX,standard,299-89-1134,5b02d4bd8d0078c4,ystephens@miles-burnett.org,True
+dfa6396f-d73f-4768-9d85-f0cfc1ba0ff2,"Rocha, Rodriguez and Wright",2019-11-28,US,standard,681-46-2726,93c09e5a095d0b62,dbrooks@chapman.com,True
+6366022d-9759-4627-9fc2-cdba34778839,Garcia-Perry,2019-08-25,US,standard,088-15-2322,841983ba436e7243,deborah23@thompson.info,True
+2298c29e-2fa3-465f-9b59-8303f8f32631,Salinas Ltd,2018-11-20,US,standard,189-24-7081,3752f897eb10f772,mark71@lambert-burns.com,True
+2bacb15d-0ba0-4440-82fb-ebf1333c1e51,"Price, Long and Wilson",2018-01-07,CN,standard,361-59-2827,7d5a29e56699ee97,kcarlson@henderson-tucker.net,True
+52a540d3-6787-48ac-bdcb-ddc8732b3f8a,"Ellison, Arias and Thompson",2022-11-29,CN,standard,171-63-4733,adc49492282fc60f,fburns@johnson.com,True
+79670cac-ec7c-488f-829a-7674685efe8a,Medina and Sons,2019-06-24,CA,standard,800-59-9268,1a0963dc4050bde0,fitzgeralddesiree@evans.info,True
+501b0385-89fe-4f46-97b3-c40806a5e297,Bailey-Montoya,2022-04-10,US,standard,450-16-3883,aae0c1f176c6cbcd,mariopadilla@armstrong-farley.net,True
+20754337-6d4f-4685-95f7-b18c45c9c346,"Ochoa, Taylor and Brady",2020-11-05,US,standard,422-08-4544,e5dbba3e8bf18850,rrobertson@mayer.com,True
+f69d4915-43cd-4e20-bf40-5285461a4628,"Smith, Schroeder and Oconnor",2022-11-18,MX,standard,749-59-5870,0190148b95c54f84,williamsconnie@smith-noble.com,True
+5a2f4505-ec2e-433b-9100-90b64aa8443a,Bryant-Braun,2019-09-04,MX,standard,439-26-2162,6983270f3862e7e9,thomasanderson@stone.com,True
+b9808c10-6062-4b00-bcde-8fd4b54d6cdf,Dominguez Inc,2020-11-05,GB,standard,881-55-2166,91ad46f201d9e54c,scottbowen@goodman.info,True
+a92cc3a9-b632-465d-bf0d-84b7a2b02ce8,Miller Inc,2019-02-12,US,standard,144-97-2018,ce57b959a74b01b6,aprilhicks@myers.com,True
+43c10081-c7ae-4cc3-9f03-b3b61f9ffe50,Cruz-Allen,2020-02-05,IN,standard,654-77-1164,0c8acbd9d7ee05b6,billbrown@hunter-fuller.net,True
+fc84daeb-941d-4383-8917-513eac2faa80,Henderson-Morales,2018-11-27,CA,standard,656-69-8809,aba6be9e61ddc170,christopherhamilton@salazar-brown.com,True
+98026a8a-63f7-4704-a5ba-a87a16e04a8c,Smith and Sons,2022-05-14,CA,standard,719-02-2685,fb4397ebf9cdfbb9,crawfordwilliam@porter.com,True
+d2d7aca9-fa3a-4245-bf91-6e2741a7d461,Moore-Ayala,2018-01-02,GB,standard,588-87-1890,28f70c775fd09ad2,robertcortez@mckenzie-duncan.com,True
+6be6ed44-138b-428c-ab97-c1ece2c3eeec,"Nunez, Williams and Walker",2019-10-26,US,standard,529-06-6569,b0a1d27a609a0af5,brittany73@mccullough.com,True
+7355fdd2-521d-436b-84d4-999de350b2b0,Johnson-Weaver,2018-02-09,US,standard,652-89-0158,187939e40e7b8283,xhaynes@villegas-miller.com,True
+a30b2af2-dff6-4a0e-bffa-b539cbae0eaa,"Anderson, Wilkins and Jones",2020-01-14,IN,standard,582-08-7127,9823def37e6f8173,martinsteven@martinez-howard.com,True
+1724ce53-dc6a-4646-b73f-7700d5e499b2,Parker-Baker,2019-09-22,US,standard,123-12-2583,e6d44ea8aeeedf2e,cranemelissa@adkins.com,True
+9b3bad0d-1cca-466b-bdd3-29c9c047336b,Smith and Sons,2018-04-29,US,standard,134-26-6564,3702f8d4b9aa90d1,kwilliams@underwood-foster.com,True
+a2ccee1a-a02c-48bd-bf49-3b1077bbf70e,Vega-Thompson,2022-12-04,GB,standard,220-24-4506,043a1bc36d8aeb75,zgonzalez@wright.com,True
+7a3beb76-ef20-49cc-ab61-e99a2758a550,Casey-Howard,2018-06-11,US,standard,558-63-5637,1b7bfee33bea5cfb,craigsandoval@ferguson-moody.com,True
+2d989234-1dde-49bd-b836-c0aaf13c68fd,Johnston Group,2022-02-07,US,standard,364-23-2886,295faa8a86a5ffaf,davisjesse@smith.com,True
+3510718b-489f-490d-8043-a88015e7ba32,Hardin-Harris,2022-07-30,US,standard,134-44-2908,965c74c9d9e78a58,theresaoconnor@conner-yu.com,True
+f0acad73-ce2d-4c6d-869e-a48b20d2a9f3,Mann PLC,2022-04-07,CA,standard,711-79-5847,3aff163cbc142486,daniellegarcia@taylor-mcgee.com,True
+8d559d98-d3b5-44d3-ac11-b5522355043b,Haas-Jackson,2022-04-18,US,standard,091-91-5501,bd784a603496c61f,amy17@curtis.com,True
+3861a9bb-4f17-461b-9e5a-fa60a22e02ad,Phillips LLC,2018-09-20,MX,standard,268-14-1216,87de8a0b3afb1426,riveraterri@terry-bowen.net,True
+262e1a92-e7b2-45e3-854f-a34e4dec7a68,Guerrero-Evans,2020-08-31,CA,standard,099-07-6438,ae3b437614a030d6,wellsdarrell@ruiz-jacobson.com,True
+f5752215-17db-4194-a53c-4704670169a6,May Group,2018-12-05,US,standard,190-48-6250,3b2ba3052d8c5143,angelarandall@barnes.info,True
+4ca17752-28fd-4223-b2ee-afd9c899d9a4,"Keith, Alvarez and Miller",2020-12-16,GB,standard,875-92-0569,ee90455d9bfe2d49,wendyburton@scott.com,True
+38f09e67-c35e-477c-aab3-8498541de34d,Hughes Group,2020-05-16,US,standard,566-42-4526,04e06417af3456d4,floydmikayla@humphrey-baker.info,True
+4572245d-32e4-44c5-90ef-a30693b9f8ab,"Lynch, Johnson and Hill",2021-01-09,IN,standard,148-80-9973,d5d7c97a74702d9b,dennismccann@schroeder-flores.biz,True
+50f5b680-9075-4d1c-a4ac-4a1104636a5b,"Brewer, Lopez and Lewis",2022-02-03,CN,standard,844-53-7938,a5d17796bd2f8e68,antoniowilliams@bush-hill.info,True
+96e17918-bdd7-49a5-a6b4-193a244d93c0,"Sanders, Leblanc and Maldonado",2019-02-16,CN,standard,248-48-8009,8571abf10bf4d372,deborahbyrd@pearson-palmer.com,True
+22d3609b-70f2-4b27-a0c7-5b7ad7419240,Buck-Holland,2019-10-01,US,standard,616-02-3667,633c0e536abf22e2,hunteileen@hoffman-wheeler.com,True
+9e87ebbd-14ec-4730-b957-58df4d06edca,Cohen-Olson,2021-10-07,MX,standard,345-36-5328,1a5793354e3a9054,vsullivan@aguilar.com,True
+dc71c6c1-1613-41b8-8fa3-2dd14c2d665d,Barber-Walker,2020-02-04,US,standard,548-82-7795,86a5241b87e49538,julieparker@watson-richards.info,True
+c542d71c-cecc-4013-bc67-465bea0f49ec,Ruiz Ltd,2020-11-25,US,standard,598-75-1167,8879317d0f26de60,kimberlyfreeman@hatfield.info,True
+03cabfe6-a858-474a-8820-8569393b3ba5,Clark-Ayala,2018-09-05,US,standard,591-98-2596,e06cf370e8bd829b,mcclainkatherine@lee.com,True
+957dfb6d-1d60-42dd-98ab-99be3f21cfcb,Steele LLC,2019-04-06,US,standard,320-17-1683,d2c22781ed570948,karen26@perez.com,True
+a8c24e9e-da63-440e-b206-d3b39fea5b99,Gross PLC,2019-11-24,US,standard,517-22-2018,bc0a251e3cf80625,qmartinez@miles-harris.com,True
+4eeaf5f3-ffc3-4dc8-b35c-2e7c2d87bc1e,Fisher-Garcia,2021-04-19,CA,standard,533-35-9923,21ca0b634d0ccc03,cphillips@crawford.com,True
+4f285eb3-3383-4521-a514-c4b28c56c25c,Smith Ltd,2019-04-17,GB,standard,092-15-9407,f8b9baae9e4e44fc,laurie56@wilson.com,True
+3d2064ee-51a4-4ccb-8c77-7ed53625e27a,Alvarado and Sons,2019-03-28,US,standard,337-46-7172,6d8367e6cb437062,jarvismegan@perry.info,True
+cba67cfd-a72d-4264-90c9-b96a57b67aac,"Gregory, White and James",2018-05-26,CN,standard,368-79-0473,4b6106a019f7c350,reynoldsjessica@reed-rhodes.biz,True
+0708eeec-73e1-42d4-b4e4-aa78eefe2a16,Combs PLC,2021-07-16,US,standard,628-07-0191,1795ee4f195ea5c4,christianwallace@west.com,True
+13b83dd0-dea4-460c-bb86-3222c1bc7e20,Mcgee-Smith,2019-04-14,US,standard,414-53-0588,ae2ae2fb30c9a89d,xmoran@chavez.com,True
+cce87c4c-70f8-40d2-b641-db10da9b9988,Kelly-Schultz,2018-03-06,US,standard,820-38-8974,11f5977bdf14a08f,jenniferrodriguez@williams-schultz.org,True
+fbcbcfec-df2e-44e7-9154-8db997ef9772,Barton Group,2018-05-26,CA,standard,469-85-9656,9eed07677387cd4a,william66@moon.com,True
+5daf661d-a4e1-4980-bcdf-9f2c4abc4037,Chavez-Anderson,2019-05-03,US,standard,423-78-8394,f20e338602b21cfa,qaguilar@butler.com,True
+f2abb109-473f-4199-8f94-77bc27c4f08d,Stokes-Mills,2021-10-02,US,standard,026-49-2382,3b7a08e31536d90c,juliahoffman@dixon.com,True
+2e29c151-b310-43d9-b952-406c88fb7e4c,"Beck, House and Hughes",2019-03-15,CA,standard,808-88-5123,990ff9d7e1cc95d3,lopezglenn@wilson.com,True
+e91be57a-27f9-4357-b5a6-25bcfbd9656f,Martin LLC,2018-09-28,CN,standard,006-43-7641,9819a928570f3eb2,hartmanerik@herrera.com,True
+f615bb32-50e3-409c-ac5c-c18485e40067,"Rivera, Ward and Robinson",2022-12-13,GB,standard,771-80-8692,f0b02f3917d5436a,angel85@lang.com,True
+d448b9df-2784-444b-b5c8-61b0db88d172,Palmer-Vaughan,2021-03-26,US,standard,172-99-8815,c9fdb25285e74f67,brownlaura@jones.biz,True
+c73c2c11-1a9e-4b30-9fba-3760515a1eaa,Hayes-Sullivan,2019-05-13,IN,standard,324-03-6382,f6ae0e0a0a7e354c,qfoster@wells.com,True
+c31e4daf-8689-42d7-98a0-8c8258a4398d,Francis PLC,2020-08-26,IN,standard,303-82-2361,30c9fb8fe36b9ff2,jason53@whitehead-york.com,True
+95ec682d-d7dd-4f71-a7da-2318172586a3,White PLC,2020-04-13,US,standard,855-33-3184,0a0e50a183507b99,david31@harvey-mccullough.com,True
+8f08a7fc-2ff1-432f-9ef5-343ac39cf57a,Hayes-Jensen,2018-07-13,US,standard,314-89-9572,aa6e4a1f09543dbe,thoward@arnold-thompson.org,True
+34d8cd55-d695-4fb6-87db-29defb61c6f0,Wilkinson and Sons,2021-09-11,US,standard,552-26-4313,cdd33a1c0d63676a,jvaldez@long-vance.org,True
+d37d2233-598d-485f-b231-88a671c73ada,"Vincent, Anderson and Mason",2019-12-27,US,standard,093-51-5962,29e3b475b40a3531,qhall@young-barnett.net,True
+47a1a742-59bf-4609-8949-0a1c35b83f81,Hughes-Hardin,2020-04-21,US,standard,048-06-5310,59b57e787e830fa5,zacharygomez@tucker-olson.org,True
+38011f88-c0fc-47d3-a7f2-62184807eee9,Shaw and Sons,2022-11-05,CN,standard,451-22-3769,b050307209d2ce41,brittanyholland@johnson-williams.org,True
+e8ff8e01-fc3f-47da-bfed-899fee12c873,"Martin, Soto and Williams",2018-04-21,MX,standard,587-19-0917,bf5c07e123b657bf,laurahoover@hanson.com,True
+88f819f2-e24d-4b09-b241-1b61e0bc4fbd,Ramsey LLC,2021-08-31,MX,standard,465-77-9677,b3c856796169209b,richamanda@davis.com,True
+816732e9-b20f-44cb-8f89-7f87c2ba333d,"Ryan, Smith and Pace",2018-07-21,US,standard,695-84-7070,1d61ccb1873566d9,campbellnancy@scott-smith.com,True
+e01f915b-9183-4f50-b1d7-291563f1c618,"Mills, Meyer and Brooks",2020-04-04,CN,standard,211-89-5176,39308e86d70ffa42,jwhite@webb.biz,True
+0e2ed5c7-1a7d-43a7-af7a-859234801cbb,"Taylor, Shields and Wilson",2019-11-26,IN,standard,236-58-2651,ecc7cf77ddc28797,jeffrey19@ramsey.org,True
+3c7b8afa-afe2-40fb-aa8e-ebbd80759f3b,"Meyer, Dawson and Harper",2022-10-31,US,standard,793-23-8100,2431e4b4d458c6f8,christopherhill@gomez-foster.org,True
+0069c47c-9898-4107-928e-d53cfa75fcd3,Holmes Ltd,2019-05-25,US,standard,721-09-1478,fff53c1f73715924,hansenwesley@arroyo-pratt.com,True
+ca22af28-5946-4743-a2da-d81c0f20131e,"Li, Andrews and Benson",2019-01-25,CA,standard,387-73-7924,d803f8be3b8db68b,haynesjose@davis-nunez.com,True
+28d2a183-e5fe-4dc1-9b29-061b7855e7a7,Spencer and Sons,2020-07-07,US,standard,488-41-5793,3920f63433b80652,moraemma@vasquez.com,True
+9cb28fb1-2cd0-4ddb-83ea-09a48ac9cce5,Watson-Stewart,2020-05-14,US,standard,589-36-8042,fce29f4113c1bba1,sbray@stevens.com,True
+0f651510-60df-4f95-86a6-bcb757a2017d,Carpenter-Nguyen,2019-07-25,US,standard,628-34-3067,3a0cf7118d0eb17b,ashleykrause@perez.com,True
+706998a6-a28c-4a82-94ae-f0858661e2ac,"Reynolds, James and Thomas",2019-05-27,US,standard,757-20-7750,609e7ca03b874db2,lewisjonathan@davis.com,True
+7bd1a857-fceb-4c68-b433-2acfb154c553,"Grant, Patrick and Cooper",2020-06-26,IN,standard,422-16-5753,c5a5ba35d8dd409b,mirandadavidson@fisher-salazar.biz,True
+282b234b-e59f-43cf-a03f-4b4f9b539ff4,Miller LLC,2022-10-31,CA,standard,234-41-5192,a08a097dd8f12441,shelby13@sanders.com,True
+33e7cc50-6339-4683-bf4e-b373c839bc69,Kelley-Johnson,2018-07-20,US,standard,407-68-1364,948ba14d3167571e,michelle78@dunn-taylor.net,True
+7970db64-3836-4851-b6c8-dc643ee1535e,Garza Group,2021-08-28,CA,standard,647-96-9241,bc88bc6cdbc4e5ee,smithlisa@cooper.net,True
+8bbb881e-f65d-47b1-be4d-b58c213f890e,Watts Group,2022-09-09,US,standard,774-62-4909,2dd202780c833e2b,fwalker@garrett-black.org,True
+4475d898-e60f-461f-986f-d4b1003de386,"Cohen, Mitchell and Paul",2018-07-11,IN,standard,829-35-6766,12158ae4d5d4bff1,lopezcurtis@martinez-gonzales.com,True
+8a0021c9-3fac-431c-9ebd-c131d2d473a6,Davis Inc,2022-10-05,US,standard,506-28-5602,0ccb3c41f08531b3,paulawright@clayton-martinez.com,True
+6ab85ea0-3d6d-40fd-aa8c-6eb1bdcacead,Wise-Ramos,2018-12-07,US,standard,756-05-3264,339f91c3d9edd431,michaelwilliams@robinson.com,True
+02f44220-9b35-4231-bc6c-0caedc514cad,Jackson LLC,2020-09-21,US,standard,599-16-6485,b93d5d6f92f9381c,deanna81@freeman.net,True
+78befcc4-8dd1-41f0-aad8-84d8d6057524,"Sherman, Trujillo and Gonzales",2019-03-14,US,standard,198-03-6190,80faf2288fe11040,mikayla98@jones.info,True
+3e8e992d-351c-4e8e-8d70-7cbddfaa7046,Weiss-Weaver,2018-05-01,US,standard,465-01-8290,f8c209abbf0cc3fa,marcus51@mills.com,True
+6d0473c6-6209-4a05-802c-3780e5e72498,White Inc,2020-02-16,US,standard,207-14-7953,27e265123da5e7f2,mcdonalddanielle@grant-hurley.biz,True
+ed94e76d-bbfa-4835-859c-5bb5cc937394,Bauer-Brown,2020-03-10,US,standard,632-35-8668,949d1d14cbce91ef,xreese@ray.biz,True
+25ac840e-6b3a-4ed9-bf0a-8c702e3cae99,Jackson and Sons,2022-05-25,IN,standard,564-52-8269,90d9c2ae4b72d50a,nicholaspierce@king.biz,True
+939d1dc0-f864-40cd-b90b-5a4efa3faf76,Barber LLC,2020-07-20,US,standard,611-03-8481,3011270dc8df806d,eric45@wright.org,True
+f7ee48e4-6fce-4998-92d1-ab0a292a5593,Carroll-Robinson,2020-05-16,CN,standard,080-93-5320,50df5f1f35ba69ed,julieatkinson@walters.biz,True
+fb1f6619-7c20-4995-957d-9f84c367f892,Torres Inc,2022-02-05,IN,standard,327-70-9256,1f478effaeffe155,matthewalvarez@williams.net,True
+0ed11373-4c82-419e-a3be-de97656deacf,Ayala-Anderson,2021-02-12,MX,standard,139-62-9164,b43d9a1a7053e97c,whenderson@flores.com,True
+71c47165-d2e0-4390-be8b-828cd28b6b51,Jackson-Bailey,2022-01-11,US,standard,842-57-2390,e26c5a1081febd79,njohnson@medina.com,True
+ad80142f-56c7-4b13-850a-ec292a9d69ad,"Webb, Blair and Thomas",2018-11-14,US,standard,716-86-0302,b4d2e87ea1f2ce53,michelle04@hughes.com,True
+be7e345f-6ed5-4a70-b38e-2f113dca9bbc,Washington-Harper,2019-08-31,US,standard,091-24-3259,15f0508ba139eb6e,wendyirwin@cain-garrett.biz,True
+7acc47c2-9463-4d6a-b8f0-8a0e81d60208,Raymond LLC,2018-04-30,GB,standard,231-20-5600,c27892065333c583,jamietaylor@sutton.net,True
+7d3a8084-6a32-4ea3-b709-4c67a99bded1,Jordan and Sons,2022-02-15,CA,standard,672-73-2590,13dbe1b11ee9c8e9,jackfarmer@jensen.org,True
+79e51839-16f3-46a4-a0c4-6907ae3d3b6f,Hall Inc,2018-05-05,CN,standard,368-11-7809,0844585885e95bdb,juliamcneil@jones.org,True
+29dd23c0-eeb1-4c49-8ec8-d8096719f5c5,Watts-Delacruz,2019-10-05,US,standard,253-55-6634,12bb71ced437b527,aprilfoster@williams.com,True
+fbe9fb19-2ecc-4fc6-9219-135bb695ecbe,Carter Group,2018-04-13,GB,standard,312-37-7559,7a72ea3fa0a29573,shannon27@mosley.com,True
+d0d2734a-cdf7-4fb2-b718-0df9af71dbfc,Nguyen-Wong,2020-09-03,CA,standard,729-21-2025,a87d5dfcd199268b,fernandothomas@williams.info,True
+b3bc46e7-2de4-42e4-8f5a-7cb9ced2865e,Sims-Wilson,2022-10-13,CA,standard,135-26-0058,39189da60bcf0d04,burkeadam@ramirez.com,True
+9f662f9c-71f4-4229-836d-08ff4597b6ae,Lopez Inc,2018-11-19,US,standard,669-45-0602,fd797009d13140c9,tammycurry@huynh-davis.com,True
+96ef355e-edda-47dd-a3a7-225b988c76ef,Richardson-Gray,2020-11-06,US,standard,070-98-7002,3273dd2c3c8bad29,webbhaley@mitchell.net,True
+ff653723-1725-415e-8b0f-f2f28b60130f,"Carney, Gomez and Anderson",2022-10-10,US,standard,577-64-8515,52dbfc3672dba8e2,cookann@lewis.com,True
+5869464f-d129-4e2e-9f0c-ddfe52c4d44a,Parker PLC,2018-05-21,GB,standard,564-42-0101,6427289d67a3b2a1,imcclain@ford-olsen.com,True
+ebebeee9-906a-44be-940c-6367bc12a857,"Evans, Hardy and Stewart",2018-05-20,MX,standard,549-03-3413,e68d2bcae616653d,hancockkaren@hodge.com,True

@@ -1,0 +1,24 @@
+{
+  "module": "R2R",
+  "version": "1.0.0",
+  "n_samples": 1000,
+  "feature_names": [
+    "journal_amount_log",
+    "debit_credit_ratio",
+    "num_lines",
+    "num_gl_accounts",
+    "posting_hour",
+    "doc_to_posting_lag_days",
+    "is_manual",
+    "is_reversal",
+    "is_period_end",
+    "is_unapproved"
+  ],
+  "models": [
+    "isolation_forest",
+    "lof",
+    "ocsvm",
+    "xgboost"
+  ],
+  "anomaly_rate": 0.082
+}
